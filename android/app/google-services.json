@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "789289494875",
+    "project_id": "shopsmartadmin-145d1",
+    "storage_bucket": "shopsmartadmin-145d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789289494875:android:9bd40d277f458e1435527e",
+        "android_client_info": {
+          "package_name": "com.example.shop_smart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789289494875-qbf0dl0prpp4c4961q2qsvsrqit4ae5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzll-zrsyukjP4aKgnuDBogkjyjy7uHV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789289494875-qbf0dl0prpp4c4961q2qsvsrqit4ae5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789289494875-lpcvg4mqqt3ub97190648detrvrab15k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopSmartAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
