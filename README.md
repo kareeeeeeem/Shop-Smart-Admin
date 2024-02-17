@@ -1,5 +1,10 @@
 Shop Smart ADMIN
 
+vedio Presentation
+
+https://github.com/kareeeeeeem/Shop-Smart-Admin/assets/88625235/96bebd9e-0b92-4ece-a215-7e56fbc99039
+
+
 Slide 1: Presentation Title
 
 View project title: "Shop Smart: Improving the management experience for shopping with innovative management features."
